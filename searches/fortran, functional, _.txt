@@ -1,0 +1,6 @@
+http://stackoverflow.com/questions/2758635/writing-robust-and-modern-fortran-code
+
+http://www.lanl.gov/conferences/salishan/salishan2014/rouson.pdf
+
+https://www.olcf.ornl.gov/training-event/this-is-not-your-parents-fortran-object-oriented-parallel-and-functional-programming-in-modern-fortran/
+
