@@ -1,4 +1,5 @@
 # GSL: gnu scientific library
+## Linear-Algebra @ https://www.gnu.org/software/gsl/manual/html_node/Linear-Algebra.html
 # netlib: 
 ## ddaspk: - o.d.e. system solver
 ## about LAPack @ http://physics.oregonstate.edu/~landaur/nacphy/lapack/
