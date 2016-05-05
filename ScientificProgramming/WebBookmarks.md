@@ -8,3 +8,9 @@
 # awesome fortran: https://github.com/iurisegtovich/awesome-fortran
 # Alan Miller's Fortran Software:
 http://jblevins.org/mirror/amiller/
+# Ipopt
+is written in C++ and is released as open source code under the Eclipse Public License (EPL).
+https://projects.coin-or.org/Ipopt
+#SOL
+NPSOL is a (LICENSED) set of Fortran 77 subroutines for minimizing a smooth function subject to constraints,
+https://web.stanford.edu/group/SOL/npsol.htm
