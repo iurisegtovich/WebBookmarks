@@ -13,3 +13,7 @@ https://twitter.com/newthinktank
 #brasilleaks
 https://www.facebook.com/brasileaks.org/
 https://brasileaks.org/
+#tor is not safe
+https://news.bitcoin.com/fbi-tor-developer-torsploit-malware/
+#freenet
+Freenet
