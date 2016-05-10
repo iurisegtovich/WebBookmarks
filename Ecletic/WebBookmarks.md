@@ -14,6 +14,11 @@ https://twitter.com/newthinktank
 https://www.facebook.com/brasileaks.org/
 https://brasileaks.org/
 #tor is not safe
+http://webcache.googleusercontent.com/search?q=cache:https://nakedsecurity.sophos.com/2016/04/28/gamekeeper-turns-poacher-the-ex-tor-developer-who-unmasks-tor-users-for-the-fbi/
 https://news.bitcoin.com/fbi-tor-developer-torsploit-malware/
 #freenet
 Freenet
+
+#cacheview google
+http://cachedview.com/index.php?lang=pt
+
