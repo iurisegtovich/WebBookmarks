@@ -22,3 +22,7 @@ Freenet
 #cacheview google
 http://cachedview.com/index.php?lang=pt
 
+
+#archive
+https://archive.org
+Internet Archive is a non-profit library of millions of free books, movies, software, music, and more.
