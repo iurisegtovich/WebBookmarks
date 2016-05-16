@@ -2,4 +2,4 @@ see https://jbt.github.io/markdown-editor/#bVNBbtswELzzFVs4gO3GltpremqTpgkQA0WTn
 for examples
 
 #basics
-https://daringfireball.net/projects/markdown/basics
+<https://daringfireball.net/projects/markdown/basics>
