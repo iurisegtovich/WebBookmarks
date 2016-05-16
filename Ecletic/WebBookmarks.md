@@ -23,7 +23,7 @@ Freenet
 
 #cacheview google
 http://cachedview.com/index.php?lang=pt
-
+http://webcache.googleusercontent.com/search?q=cache:***********************
 
 #archive
 https://archive.org
