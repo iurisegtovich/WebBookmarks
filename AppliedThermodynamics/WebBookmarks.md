@@ -12,3 +12,7 @@ Chemical engineering calculations as web applications to assist process, plant o
 ##VMG
 http://www.virtualmaterials.com/
 VMG is a worldwide team of engineers and experts in process simulation software for the oil and gas industry. 
+
+#OpenSource
+##DWSIM
+http://dwsim.inforside.com.br/wiki/index.php?title=Main_Page
