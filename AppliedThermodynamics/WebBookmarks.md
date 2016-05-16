@@ -6,3 +6,7 @@ free(?) not open source(?)
 #CheCalc
 http://checalc.com/
 Chemical engineering calculations as web applications to assist process, plant operation and maintenance engineers. 
+
+#Commercial
+http://www.virtualmaterials.com/
+VMG is a worldwide team of engineers and experts in process simulation software for the oil and gas industry. 
