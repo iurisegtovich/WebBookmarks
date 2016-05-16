@@ -8,7 +8,9 @@ I make video tutorials on everything. I share funny & interesting stuff. I follo
 www.newthinktank.com
 https://twitter.com/newthinktank
 
-
+#gyplan
+http://www.gyplan.com/
+Here you will find items such as, economics, finance, financial and statistical calculations, health, recreation, food and more for the day to day.
 
 #brasilleaks
 https://www.facebook.com/brasileaks.org/
