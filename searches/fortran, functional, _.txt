@@ -4,3 +4,5 @@ http://www.lanl.gov/conferences/salishan/salishan2014/rouson.pdf
 
 https://www.olcf.ornl.gov/training-event/this-is-not-your-parents-fortran-object-oriented-parallel-and-functional-programming-in-modern-fortran/
 
+#memoization
+https://www.quora.com/How-often-is-memoization-used-in-scientific-computing
