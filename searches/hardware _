@@ -1,1 +1,7 @@
 http://computer.howstuffworks.com/monitor3.htm
+DVI-digital (DVI-D) is a digital-only format. It requires a video adapter with a DVI-D connection and a monitor with a DVI-D input. The connector contains 24 pins/receptacles in 3 rows of 8 plus a grounding slot for dual-link support. For single-link support, the connector contains 18 pins/receptacles.
+DVI-integrated (DVI-I) supports both digital and analog transmissions. This gives you the option to connect a monitor that accepts digital input or analog input. In addition to the pins/receptacles found on the DVI-D connector for digital support, a DVI-I connector has 4 additional pins/receptacles to carry an analog signal.
+
+http://nvidia.custhelp.com/app/answers/detail/a_id/221/~/what-is-the-difference-between-dvi-i-and-dvi-d%3F
+Some NVIDIA based graphics cards will look similar to Figure 2 which features a DVI-D connector as well as a VGA connector.
+These cards generally will only support a single display at a time, not dual monitor.
