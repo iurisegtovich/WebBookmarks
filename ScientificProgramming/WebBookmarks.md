@@ -77,3 +77,6 @@ https://groups.yahoo.com/neo/groups/lp_solve/info
 lp_solve solves pure linear, (mixed) integer/binary, semi-continuous and special ordered sets (SOS) models. lp_solve has no limit on model size and accepts both lp or mps input files. It can also be called as a library from different languages like C, VB, .NET, Delphi, Excel, Java, ...
 lp_solve is written in ANSI C and can be compiled on many different platforms like Linux and WINDOWS.
 
+#R on numerical
+http://www.r-pkg.org/ctv/NumericalMathematics
+The task view will not cover differential equations, optimization problems and solvers, or packages and functions operating on times series, because all these topics are treated extensively in the corresponding task views DifferentialEquations, Optimization, and TimeSeries. All these task views together will provide a good selection of what is available in R for the area of numerical mathematics. The HighPerformanceComputing task view with its many links for parallel computing may also be of interest.
