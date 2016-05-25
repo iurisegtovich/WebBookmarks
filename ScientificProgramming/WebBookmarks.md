@@ -69,3 +69,6 @@ https://www.openmodelica.org/
 SUNDIALS (SUite of Nonlinear and DIfferential/ALgebraic equation Solvers) is a suite of advanced computational codes for solving large-scale problems that can be modeled as a system of nonlinear algebraic equations, or as initial-value problems in ordinary differential or differential-algebraic equations. The basic versions of these codes are called KINSOL, CVODE, and IDA, respectively. Also available are extensions of these codes for sensitivity analysis (CVODES and IDAS) and a Matlab toolbox (sundialsTB) providing interfaces to CVODES, IDAS, and KINSOL.
 http://sundials.wikidot.com/start
 The SUNDIALS solvers are released open source, under a BSD license. The only requirements of the BSD license are preservation of copyright and a standard disclaimer of liability.
+
+#lpsolve about "FREE" linear programming algorithms and modelling languages
+http://lpsolve.sourceforge.net/
