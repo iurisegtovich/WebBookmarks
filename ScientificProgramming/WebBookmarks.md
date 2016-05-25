@@ -72,3 +72,8 @@ The SUNDIALS solvers are released open source, under a BSD license. The only req
 
 #lpsolve about "FREE" linear programming algorithms and modelling languages
 http://lpsolve.sourceforge.net/
+
+https://groups.yahoo.com/neo/groups/lp_solve/info
+lp_solve solves pure linear, (mixed) integer/binary, semi-continuous and special ordered sets (SOS) models. lp_solve has no limit on model size and accepts both lp or mps input files. It can also be called as a library from different languages like C, VB, .NET, Delphi, Excel, Java, ...
+lp_solve is written in ANSI C and can be compiled on many different platforms like Linux and WINDOWS.
+
