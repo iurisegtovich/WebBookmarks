@@ -54,6 +54,9 @@ It's hard to ignore the wealth of statistical packages available in R/CRAN. That
 
     PyMix Mixture models.
 
+    SPOTPY SPOTPY is a Python tool that enables the use of Computational optimization techniques for calibration, uncertainty and sensitivity analysis techniques of almost every (environmental-) model. The package is puplished in the open source journal PLoS One:
+    https://github.com/thouska/spotpy 
+
 If speed becomes a problem, consider Theano -- used with good success by the deep learning people.
 
 There's plenty of other stuff out there, but this is what I find the most useful along the lines you mentioned.
