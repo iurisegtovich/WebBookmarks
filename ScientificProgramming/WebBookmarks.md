@@ -58,3 +58,6 @@ If speed becomes a problem, consider Theano -- used with good success by the dee
 
 There's plenty of other stuff out there, but this is what I find the most useful along the lines you mentioned.
 "
+
+#mathematics and modeling abstraction interface software
+https://www.openmodelica.org/
